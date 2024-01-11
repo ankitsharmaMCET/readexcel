@@ -14,6 +14,11 @@ readexcel(x)
 \arguments{
   \item{x}{
 %%     ~~Describe \code{x} here~~
+f  file path
+
+s  sheet number
+
+range  range of data in perticular sheet {default B4:F45}
 }
 }
 \details{
