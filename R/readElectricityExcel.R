@@ -3,7 +3,7 @@ library(tidyverse)
 library(data.table)
 library(glue)
 library(energyRt)
-f <- "C:/Users/user/Desktop/R/First_Indian_Technology_Catalogue_Generation_and_Storage_of_ElectricityExcel.xlsx"
+f <- "rawdata/First_Indian_Technology_Catalogue_Generation_and_Storage_of_ElectricityExcel.xlsx"
 sheets <- readxl::excel_sheets(f)
 # s <- sheets[2]
 
