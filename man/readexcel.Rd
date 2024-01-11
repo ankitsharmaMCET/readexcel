@@ -1,25 +1,26 @@
 \name{readexcel}
 \alias{readexcel}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{<h1>REAEXCEL IS THE PAKAGE DEVLOPED FOR FILTERING AND EXTRACTING THE EXCEL DATA<h1>
+\title{READEXCEL : An excel Tool
 %%  ~~function to do ... ~~
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
+READEXCEL IS THE PAKAGE DEVLOPED FOR FILTERING AND EXTRACTING THE EXCEL DATA
 }
 \usage{
 readexcel(x)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{x}{
+  \item{f}{file path},item{s}{sheet number},item{range}{range of data in perticular sheet default B4:F45}
 %%     ~~Describe \code{x} here~~
-f  file path
+ 
 
 s  sheet number
 
 range  range of data in perticular sheet {default B4:F45}
-}
+
 }
 \details{
 %%  ~~ If necessary, more details than the description above ~~
