@@ -13,7 +13,7 @@ readexcel(x)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{f}{file path},item{s}{sheet number},item{range}{range of data in perticular sheet default B4:F45}
+  \item{f}{file path},\item{s}{sheet number},\item{range}{range of data in perticular sheet default B4:F45}
 %%     ~~Describe \code{x} here~~
  
 
