@@ -6,7 +6,7 @@
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
-READEXCEL IS THE PAKAGE DEVLOPED FOR FILTERING AND EXTRACTING THE EXCEL DATA
+READEXCEL IS THE PACKAGE IN 'R' DEVLOPED FOR FILTERING AND EXTRACTING THE EXCEL DATA
 }
 \usage{
 readexcel(x)
