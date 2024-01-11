@@ -1,7 +1,7 @@
 \name{readexcel}
 \alias{readexcel}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{readexcel
+\title{<h1>REAEXCEL IS THE PAKAGE DEVLOPED FOR FILTERING AND EXTRACTING THE EXCEL DATA<h1>
 %%  ~~function to do ... ~~
 }
 \description{
