@@ -17,9 +17,7 @@ readexcel(x)
 %%     ~~Describe \code{x} here~~
  
 
-s  sheet number
 
-range  range of data in perticular sheet {default B4:F45}
 
 }
 \details{
