@@ -648,4 +648,4 @@ ideea_techs <- list(
   ENUC = ENUC,
   STG_BTR = STG_BTR
 )
-save(ideea_techs, file = "raw-data/ideea_techs.RData")
+save(ideea_techs, file = "rawdata/ideea_techs.RData")
